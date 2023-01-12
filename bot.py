@@ -123,7 +123,7 @@ with client:
 {lista} - {binBank} - {binEmoji} 
 @shurman"""
 
-                        client2.send_message(-10011111111111, respo,parse_mode='html')
+                        client2.send_message(-678823578, respo,parse_mode='html')
                 wd = RoldexVerseCcs(message.id)
         except errors.FloodWaitError as e:
             print('Have to sleep', e.seconds, 'seconds')
