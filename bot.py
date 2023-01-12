@@ -37,8 +37,8 @@ import re
 import telethon
 from sys import argv
 from prettytable import PrettyTable
-api_id = 1111111111 
-api_hash = 'xxxxxxxxxxxxxxxx'
+api_id = 29710244
+api_hash = '6424218d6bc6bb23fcc1ebb7e241d0da'
 def lista(dets):
     dets = str(dets)
     arrays = re.findall(r'[0-9]+', dets)
